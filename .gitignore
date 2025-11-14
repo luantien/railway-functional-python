@@ -1,0 +1,8 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files
+temp/*
+!temp/.gitkeep
